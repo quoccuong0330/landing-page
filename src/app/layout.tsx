@@ -36,8 +36,8 @@ const belanosima = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Univerz University - Landing Page",
-  description: "Shaping the Future Through Education and Innovation",
+  title: "2HGANA - CÔNG TY TNHH GIÁO DỤC 2H GANA VIỆT NAM",
+  description: "Phát triển năng lực cá nhân và kỹ năng sống toàn diện",
 };
 
 export default function RootLayout({
